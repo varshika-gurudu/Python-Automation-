@@ -12,25 +12,36 @@ class Test_001_Login:
 
     #checking if the base URL working
 
-    def test_HomeTitlePage(self):
-        self.driver = webdriver.Chrome('C:/Users/varsh/Desktop/chromedriver_win32/chromedriver.exe')
+    def test_HomeTitlePage(self,setup):
+        #self.driver = webdriver.Chrome('C:/Users/varsh/Desktop/chromedriver_win32/chromedriver.exe')
+        self.driver = setup
         self.driver.get(self.base_url)
         actual_title = self.driver.title
-        self.driver.close()
-        if actual_title == 'Your store. Login':
+
+        if actual_title == 'Your store. ogin':
+            self.driver.close()
             assert True
         else:
+            self.driver.save_screenshot('.\\Screenshots\\'+ 'test_HomeTitlePage.png')
+            self.driver.close()
             assert False
 
     #checking if the login by entering valid username and password
 
-    def test_login_page(self):
-        self.driver = webdriver.Chrome('C:/Users/varsh/Desktop/chromedriver_win32/chromedriver.exe')
+    def test_login_page(self,setup):
+        #self.driver = webdriver.Chrome('C:/Users/varsh/Desktop/chromedriver_win32/chromedriver.exe')
+        self.driver = setup
         self.driver.get(self.base_url)
         self.lp = LoginPageFirst(self.driver)
         self.lp.setUsername(self.username)
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
+        actual_title = self.driver.title
+        if actual_title == 'Dashboard / nopCommerce administration':
+            assert True
+        else:
+            assert False
+        self.driver.close()
 
 
 
