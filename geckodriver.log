@@ -1,0 +1,59 @@
+1618259711862	geckodriver	INFO	Listening on 127.0.0.1:51743
+1618259714892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\varsh\\AppData\\Local\\Temp\\rust_mozprofile23A9AJ"
+1618259717175	geckodriver	INFO	Listening on 127.0.0.1:51753
+1618259720220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\varsh\\AppData\\Local\\Temp\\rust_mozprofileytJWdq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618259725811	Marionette	INFO	Listening on port 51765
+1618259726271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618259732050	Marionette	INFO	Stopped listening on port 51765
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618259784661	geckodriver	INFO	Listening on 127.0.0.1:51865
+1618259787690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\varsh\\AppData\\Local\\Temp\\rust_mozprofilehuaEQk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618259791734	Marionette	INFO	Listening on port 51873
+1618259792035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618259793329	Marionette	INFO	Stopped listening on port 51873
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\varsh\AppData\Local\Temp\rust_mozprofilehuaEQk\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618259794474	geckodriver	INFO	Listening on 127.0.0.1:51925
+1618259797511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\varsh\\AppData\\Local\\Temp\\rust_mozprofile3TjtDE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618259801256	Marionette	INFO	Listening on port 51933
+1618259801717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618259806376	Marionette	INFO	Stopped listening on port 51933
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

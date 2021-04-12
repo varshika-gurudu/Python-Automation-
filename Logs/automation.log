@@ -1,0 +1,23 @@
+2021-04-12 22:21:48,531 - root - INFO - *********verifying login test***********
+2021-04-12 22:21:48,661 - root - INFO - ********Test_001_Login**********
+2021-04-12 22:21:48,661 - root - INFO - ******started verifying login page title********
+2021-04-12 22:21:50,493 - root - INFO - *********Home page title is passed***********
+2021-04-12 22:21:53,971 - root - INFO - *********login is passed***********
+2021-04-12 22:24:36,597 - root - INFO - *********test_HomeTitlePage***********
+2021-04-12 22:24:36,597 - root - INFO - ******started verifying login page title********
+2021-04-12 22:24:38,563 - root - INFO - *********Home page title is passed***********
+2021-04-12 22:24:40,124 - root - INFO - *********verifying login test***********
+2021-04-12 22:24:46,108 - root - INFO - *********login is passed***********
+2021-04-12 22:28:37,247 - root - INFO - *********test_HomeTitlePage***********
+2021-04-12 22:28:37,247 - root - INFO - ******started verifying login page title********
+2021-04-12 22:28:39,347 - root - INFO - *********Home page title is passed***********
+2021-04-12 22:29:16,689 - root - INFO - *********test_HomeTitlePage***********
+2021-04-12 22:29:16,690 - root - INFO - ******started verifying login page title********
+2021-04-12 22:29:18,656 - root - INFO - *********Home page title is passed***********
+2021-04-12 22:29:20,229 - root - INFO - *********verifying login test***********
+2021-04-12 22:29:26,123 - root - INFO - *********login is passed***********
+2021-04-12 22:35:15,326 - root - INFO - *********test_HomeTitlePage***********
+2021-04-12 22:35:15,327 - root - INFO - ******started verifying login page title********
+2021-04-12 22:35:17,427 - root - INFO - *********Home page title is passed***********
+2021-04-12 22:35:18,996 - root - INFO - *********verifying login test***********
+2021-04-12 22:35:25,334 - root - INFO - *********login is passed***********
